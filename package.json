@@ -1,0 +1,15 @@
+{
+  "name": "asn2_chintan",
+  "version": "1.0.0",
+  "description": "WPAF-1 Assignment2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Chintan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  }
+}

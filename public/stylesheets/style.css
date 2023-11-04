@@ -1,0 +1,66 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #040404;
+    color: #fff;
+}
+
+header {
+    background-color: #191414;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: #1DB954; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff; 
+    
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #fff; 
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #1DB954; 
+}
+
+thead {
+    color: #fff; 
+}
+
+footer {
+    background-color: #191414;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #1DB954;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.unknown {
+    background-color: rgb(255, 0, 0); /* You can choose any color you prefer */
+}
+/* styles.css */
