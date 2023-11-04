@@ -2,7 +2,7 @@
   "name": "asn2_chintan",
   "version": "1.0.0",
   "description": "WPAF-1 Assignment2",
-  "main": "",
+  "main": "app.js",
   "scripts": {
     "test": "npm start"
   },
